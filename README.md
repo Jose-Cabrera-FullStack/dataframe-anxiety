@@ -8,6 +8,3 @@ Equipo compuesto por:
 José Cabrera
 José Oteiza
 José Vega
-Gonzalo Pietraroia
-Lautaro Fornaro
-
